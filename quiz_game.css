@@ -6,9 +6,9 @@ body{
 
 #output
 {
-background: white;
+background:greenyellow;
 border-radius: 10px;
-border-top: 10px solid #AA4465;
+border-top: 10px solid yellow;
 padding: 10px;
 float: none;
 text-align: left;
